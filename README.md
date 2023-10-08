@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nallagatlarajesh
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python,numpy,pandas,matplotlib,sql,matlab,django,powerbi
+- 🌱 I’m currently learning python,numpy,pandas,matplotlib,sql,matlab,django,html,powerbi
 - 💞️ I’m looking to collaborate on team
 - 📫 How to reach me (my world)
 
